@@ -1,0 +1,2 @@
+python flag.py
+pause
