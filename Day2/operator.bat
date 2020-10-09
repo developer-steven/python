@@ -1,0 +1,2 @@
+python operator.py
+pause

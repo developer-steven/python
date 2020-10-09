@@ -1,0 +1,2 @@
+python centigrade.py
+pause
