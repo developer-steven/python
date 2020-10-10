@@ -1,0 +1,2 @@
+python common_divisor.py
+pause

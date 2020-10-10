@@ -1,0 +1,2 @@
+python triangular_pattern.py
+pause
