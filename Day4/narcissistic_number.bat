@@ -1,0 +1,2 @@
+python narcissistic_number.py
+pause

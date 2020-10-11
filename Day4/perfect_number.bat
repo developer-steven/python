@@ -1,0 +1,2 @@
+python perfect_number.py
+pause
